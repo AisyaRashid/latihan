@@ -2,7 +2,7 @@
 echo "test";
 echo "<table>
     <tr>
-        <td>Nama Pengguna</td>
+        <td>Nama Pengguna (Aisya) </td>
         <td><input type='text' /></td>
     </tr>
 
